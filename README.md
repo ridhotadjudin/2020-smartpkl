@@ -1,3 +1,3 @@
 # smartPKL
 
-Prototype web for Komunitas Pedagang Kaki Lima in Monperra Bandung
+Prototype web untuk Komunitas Pedagang Kaki Lima di Gasibu Bandung
